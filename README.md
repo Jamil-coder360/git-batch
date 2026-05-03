@@ -1,35 +1,17 @@
-<!-- ⚡ NEON HEADER -->
+<!-- NEON STYLE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jamil+👋;Frontend+Developer+💻;React+%7C+Next.js+%7C+Firebase;I+Build+Modern+Web+Experiences+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jamil+👋;Frontend+Developer;React+%7C+Next.js+%7C+Firebase;Building+Clean+%26+Modern+Web+Apps" />
 </p>
 
 ---
 
-<!-- GLASSMORPHISM HEADER CARD -->
-<div align="center">
-
-<div style="
-  background: rgba(255,255,255,0.08);
-  border-radius: 22px;
-  padding: 25px;
-  width: 90%;
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  border: 1px solid rgba(255,255,255,0.15);
-  box-shadow: 0 8px 40px rgba(0,0,0,0.4);
-">
-
 ## 💫 About Me
 
-🔭 I’m currently building modern web applications with React & Next.js  
-🌱 I’m currently learning TypeScript, System Design & Backend Scaling  
-👯 I’m open to collaborating on creative frontend & full-stack projects  
-💬 Ask me about React, Firebase, UI/UX, Authentication, API design  
-⚡ Fun fact: I turn coffee ☕ + ideas 💡 into clean UI components  
-
-</div>
-
-</div>
+- 🔭 I’m currently working on modern React & Next.js applications  
+- 🌱 I’m currently learning TypeScript & system design  
+- 👯 I’m open to collaboration on frontend & full-stack projects  
+- 💬 Ask me about React, Firebase, UI design, authentication  
+- ⚡ Fun fact: I enjoy turning ideas into smooth UI experiences  
 
 ---
 
@@ -42,7 +24,7 @@
 </a>
 
 <a href="mailto:jamil595nhj@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -54,7 +36,7 @@
 <p align="center">
 
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase)
@@ -64,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Jamil-coder360&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -77,18 +59,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jamil-coder360&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
@@ -101,14 +75,6 @@
 
 ---
 
-## 💰 Support Me
-
 <p align="center">
-<a href="https://buymeacoffee.com/jamil">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
+  💻 Built with focus on clean design & readability
 </p>
-
----
-
-<p align="center">🔥 Crafted with passion | Clean UI | Modern Developer Profile</p>
